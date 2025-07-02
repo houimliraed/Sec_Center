@@ -16,6 +16,7 @@ const ScoreBoard: React.FC<ScoreBoardProps> = ({ scores }) => {
         <Trophy className="h-5 w-5 text-yellow-500" />
         Score Board
       </h2>
+         <div className="space-y-2">test</div>
       
       <div className="space-y-2">
         <div className="flex justify-between items-center p-2 bg-indigo-50 rounded">
